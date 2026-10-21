@@ -1,5 +1,5 @@
 class Landmines < Formula
-  desc "Known open bugs in your exact dependency versions, where your coding agent reads them"
+  desc "Known open bugs in your pinned dependency versions, for coding agents"
   homepage "https://github.com/devanshranjan10/landmines"
   url "https://registry.npmjs.org/landmines/-/landmines-0.2.0.tgz"
   sha256 "e9b581bce8c33a80084835c83c476f49fdd97fc266a3e5263991037f2edeefcd"
