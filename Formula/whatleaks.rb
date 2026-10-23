@@ -1,8 +1,8 @@
 class Whatleaks < Formula
   desc "See what an app sends home, and what it still sends after you opt out"
   homepage "https://whatleaks.me"
-  url "https://registry.npmjs.org/whatleaks/-/whatleaks-0.1.0.tgz"
-  sha256 "fe79f5e2a0a6d2467745dd6f778e84815f39779f359eb017b0cc4099c7bdcfab"
+  url "https://registry.npmjs.org/whatleaks/-/whatleaks-0.1.1.tgz"
+  sha256 "b6b53aeee2b523aab4de6334bda798ef3a00e7c24d7dde93cc1f0533df299083"
   license "MIT"
 
   depends_on "node"
