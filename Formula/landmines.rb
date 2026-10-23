@@ -1,8 +1,8 @@
 class Landmines < Formula
   desc "Known open bugs in your pinned dependency versions, for coding agents"
   homepage "https://github.com/devanshranjan10/landmines"
-  url "https://registry.npmjs.org/landmines/-/landmines-0.2.0.tgz"
-  sha256 "e9b581bce8c33a80084835c83c476f49fdd97fc266a3e5263991037f2edeefcd"
+  url "https://registry.npmjs.org/landmines/-/landmines-0.2.1.tgz"
+  sha256 "7e8f7a32b6c8615d5e9be51a0fdffc7c3c62d95ac4d62ba80ccef1f4894a7281"
   license "MIT"
 
   depends_on "node"
